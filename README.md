@@ -53,7 +53,7 @@
       <br><sub><strong>git</strong></sub>
     </td>
     <td align="center" width="140" height="140">
-      <img src="https://icones.pro/wp-content/uploads/2021/06/icone-github-grise.png" width="80" height="80" alt="GitHUB"/>
+      <img src="github-logo.svg" width="80" height="80" alt="GitHUB"/>
       <br><sub><strong>GitHUB</strong></sub>
     </td>
   </tr>
