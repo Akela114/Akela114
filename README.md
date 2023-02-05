@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Oleg <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
-<h4 align="center">Beginner Front-End Developer 👨‍💻 | BSc CS 👨‍🎓</h4>
+<h4 align="center">Beginner Front-End Developer | BSc CS</h4>
 
 <h2 align="center">Tech Stack</h2>
 
